@@ -1,3 +1,7 @@
 test again yeah!
 
+<<<<<<< HEAD
 change
+=======
+mew
+>>>>>>> new-features
